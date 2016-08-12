@@ -5,4 +5,3 @@ Tecnologias:
 
 - Mean JS
 - Bootstrap CSS
-- Passport
